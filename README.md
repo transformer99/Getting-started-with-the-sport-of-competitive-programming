@@ -562,3 +562,5 @@ http://www.codechef.com/problems/HAREJUMP
 For further advanced topics you can follow topcoder tutorials.
 
 This also might be helpful introduction to competitive programming - Stanford.
+
+From: https://www.hackerearth.com/notes/getting-started-with-the-sport-of-programming/
